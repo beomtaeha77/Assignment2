@@ -1,0 +1,94 @@
+
+
+[
+  {
+    "id": "#101",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in. Tried password reset multiple times with no success.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "id": "#102",
+    "title": "Payment Checkout Failure",
+    "description": "User receives 'Error 402' when attempting to pay with a Visa card.",
+    "customer": "Sarah Jenkins",
+    "priority": "HIGH PRIORITY",
+    "status": "In-progress",
+    "createdAt": "2024-01-15T10:15:00Z"
+  },
+  {
+    "id": "#103",
+    "title": "Mobile App Crash on Android",
+    "description": "Application closes immediately upon opening on Pixel 7 devices.",
+    "customer": "Michael Chen",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T11:30:00Z"
+  },
+  {
+    "id": "#104",
+    "title": "Subscription Upgrade Not Applied",
+    "description": "Paid for Premium tier, but account features are still locked to Basic.",
+    "customer": "Emily Rodriguez",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T12:05:00Z"
+  },
+  {
+    "id": "#105",
+    "title": "Invoice PDF Generation Error",
+    "description": "Clicking 'Download Invoice' results in a 500 Server Error page.",
+    "customer": "David Thompson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T13:45:00Z"
+  },
+  {
+    "id": "#106",
+    "title": "API Key Activation Delay",
+    "description": "New API keys are showing as 'Pending' for over 4 hours.",
+    "customer": "Global Tech Admin",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "#107",
+    "title": "Broken Images in User Profiles",
+    "description": "Avatar uploads are failing to display in the main dashboard view.",
+    "customer": "Jessica Wu",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T15:10:00Z"
+  },
+  {
+    "id": "#108",
+    "title": "Grammar Typo on FAQ Page",
+    "description": "Spelling mistake found in the 'Refund Policy' section of the help center.",
+    "customer": "Robert Miller",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T16:00:00Z"
+  },
+  {
+    "id": "#109",
+    "title": "Cannot Delete Empty Workspace",
+    "description": "Receiving a database constraint error when trying to remove a test workspace.",
+    "customer": "Amanda Lee",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T16:55:00Z"
+  },
+  {
+    "id": "#110",
+    "title": "2FA SMS Code Not Arriving",
+    "description": "Users in the UK region are reporting they are not receiving authentication texts.",
+    "customer": "Kevin Patel",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15T17:40:00Z"
+  }
+]
