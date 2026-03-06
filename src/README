@@ -1,0 +1,18 @@
+What is JSX, and why is it used?
+JSX er full meaning hocche Javascript XML. XML hocche ek dhoroner syntax extension Javascript er jonno, jeta HTML er moto markup shorashori use korte dey
+
+
+What is the difference between State and Props?
+Props e external data pass kora hoye thake parent theke child component er moddhe, ar state nijer moddhe data manage kore thake useState hook baa setState method babohar kore
+State er moddhe mostly user input, form data, timer etc pass kora hoy.
+
+
+What is the useState hook, and how does it work?
+eita react er ek dhoroner special function jeita data er change time er shathe track kore thake.
+
+How can you share state between components in React?
+parent component e useState hook babohar kore
+
+
+How is event handling done in React?
+camelCase naming method use kore button e onClick={handleClick}
